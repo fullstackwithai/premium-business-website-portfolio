@@ -1,2 +1,75 @@
-# premium-business-website-portfolio
-A premium responsive business website portfolio showcasing modern landing pages, service sections, client-focused layouts, and polished UI design for agencies, consultants, and local businesses.
+# Premium Business Website Portfolio
+
+![Project screenshot](assets/screenshot.png)
+
+## Overview
+
+A premium multi-section business website template designed to showcase client-facing web design ability. It includes a strong hero, services, portfolio cards, testimonials, pricing, and contact CTA.
+
+## Why this project exists
+
+This repository is designed to be visible and understandable to recruiters in the first 30 seconds. It shows practical product thinking, clean front-end structure, responsive UI execution, and business/data awareness.
+
+## Features
+
+- Luxury-style landing page for service businesses
+- Portfolio/project cards with case-study style copy
+- Pricing and service packages section
+- SEO-friendly semantic structure
+- Responsive design with polished visual hierarchy
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Responsive layout
+- Mock dataset / client-side interactions
+
+## Project Structure
+
+```text
+premium-business-website-portfolio/
+├── index.html
+├── assets/
+│   ├── styles.css
+│   ├── app.js
+│   └── screenshot.png
+└── README.md
+```
+
+## How to Run
+
+Open `index.html` directly in your browser, or run a simple local server:
+
+```bash
+python -m http.server 5173
+```
+
+Then open:
+
+```text
+http://localhost:5173
+```
+
+## Recruiter Notes
+
+This project is intentionally built as a polished portfolio piece. It demonstrates:
+
+- UI/UX judgment
+- Responsive front-end implementation
+- Business dashboard thinking
+- Clean file organization
+- Ability to turn an idea into a product-like interface
+
+## Future Improvements
+
+- Convert to React components
+- Add API data loading
+- Add authentication and protected routes
+- Persist data in a database
+- Add automated tests
+
+## Author
+
+Built for a full-stack / frontend / DA-BI focused GitHub portfolio.
