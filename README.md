@@ -1,5 +1,9 @@
 # Premium Business Website Portfolio
 
+> A polished business website portfolio project for agencies, consultants, service businesses, and local brands that need premium front-end presentation.
+
+Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted, and data-driven web solutions.
+
 ![Project screenshot](assets/screenshot.png)
 
 ## Overview
@@ -70,6 +74,11 @@ This project is intentionally built as a polished portfolio piece. It demonstrat
 - Persist data in a database
 - Add automated tests
 
-## Author
+## About
 
-Built for a full-stack / frontend / DA-BI focused GitHub portfolio.
+Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
+
+- 🌐 [designhubmk.com](https://www.designhubmk.com)
+- 📧 info@designhubmk.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
+- 🐙 [GitHub](https://github.com/fullstackwithai)
