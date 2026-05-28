@@ -74,11 +74,35 @@ This project is intentionally built as a polished portfolio piece. It demonstrat
 - Persist data in a database
 - Add automated tests
 
-## About
+---
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
+## Creator & Brand
 
-- 🌐 [designhubmk.com](https://www.designhubmk.com)
-- 📧 info@designhubmk.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
-- 🐙 [GitHub](https://github.com/fullstackwithai)
+<p align="center">
+  <img alt="Premium Agency" src="https://img.shields.io/badge/Premium%20Agency-Website%20Portfolio-C9A646?style=for-the-badge" />
+  <img alt="Frontend" src="https://img.shields.io/badge/Frontend-Conversion%20Focused-111827?style=for-the-badge" />
+  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-C9A646?style=for-the-badge" />
+</p>
+
+### Built by **Arsim Shefkiu** under **FullStackWithAI**
+
+> **Premium frontend execution for business websites that need to look polished, credible, and ready to convert.**
+
+| Brand Direction | Portfolio Value |
+|---|---|
+| **Luxury website presentation** | Shows the ability to design beyond basic templates |
+| **Conversion-focused structure** | Demonstrates business thinking for service companies and agencies |
+| **Responsive execution** | Proves layout discipline across desktop, tablet, and mobile screens |
+| **Client-ready polish** | Positions the project as proposal-ready, not just code practice |
+
+**Professional Focus:** I build polished business websites and product-style interfaces that combine premium visual hierarchy, clean frontend execution, responsive layouts, and AI-assisted speed.
+
+**Why it matters:** A hiring manager, CEO, or client should immediately understand that this project is not only technically organized, but also commercially useful.
+
+<p align="center">
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
+
+<p align="center">
+  <strong>FullStackWithAI</strong> · Premium websites · Frontend polish · Business presentation · AI-assisted product thinking
+</p>
